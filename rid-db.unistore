@@ -6,9 +6,9 @@
     "infoURL": "",
     "revision": 0,
     "sheet": "rid-db.t3x",
-    "sheetURL": "",
+    "sheetURL": "https://github.com/tinyRetroDev/ridUnistore/raw/b5198bffc838c99de2ee40ab620a9332f8d69e54/rid-db.t3x",
     "title": "RID DataBase",
-    "url": "",
+    "url": "https://raw.githubusercontent.com/tinyRetroDev/ridUnistore/refs/heads/main/rid-db.unistore",
     "version": 3
   },
   "storeContent": [
