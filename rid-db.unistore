@@ -1,0 +1,581 @@
+{
+  "storeInfo": {
+    "author": "RID Team",
+    "description": "- Another online database of homebrew -",
+    "file": "rid-db.unistore",
+    "infoURL": "",
+    "revision": 0,
+    "sheet": "rid-db.t3x",
+    "sheetURL": "",
+    "title": "RID DataBase",
+    "url": "",
+    "version": 3
+  },
+  "storeContent": [
+    {
+      "info": {
+        "author": "MonsterFloppa",
+        "category": [ "game" ],
+        "console": [ "3DS" ],
+        "description": "Its a basic infinite runner game like subway surfers but for the 3ds. \n\nNew3DS Only",
+        "icon_index": 0,
+        "last_updated": "2024-06-07 at 13:15 (UTC)",
+        "license": "",
+        "releasenotes": "",
+        "screenshots": [
+          {
+            "description": "main screen",
+            "url": "https://img.itch.zone/aW1hZ2UvMjc3NzM5OS8xNjY1MTAyOS5wbmc=/347x500/bUBTv6.png"
+          },
+          {
+            "description": "gameplay 1",
+            "url": "https://img.itch.zone/aW1hZ2UvMjc3NzM5OS8xNjY1MTAzMS5wbmc=/347x500/81gPXY.png"
+          }
+        ],
+        "title": "Bing chilling adventure 3ds",
+        "version": "1.1",
+        "wiki": ""
+      },
+      "Donwload Bing Chilling 1.1.cia": [
+        {
+          "file": "https://archive.org/download/idkrandom/Bing%20Chilling%201.1.cia",
+          "output": "/Bing%20Chilling%201.1.cia",
+          "type": "downloadFile"
+        },
+        {
+          "file": "/Bing%20Chilling%201.1.cia",
+          "type": "installCia"
+        },
+        {
+          "file": "/Bing%20Chilling%201.1.cia",
+          "type": "deleteFile"
+        }
+      ]
+    },
+    {
+      "info": {
+        "author": "Extintor Incendiandose",
+        "category": [ "game" ],
+        "console": [ "3DS" ],
+        "description": "consists in simply touching the food that appears on the screen, depending on which food you touched it gives you one point or two.",
+        "icon_index": 1,
+        "last_updated": "2024-05-06 at 01:54 (UTC)",
+        "license": "",
+        "releasenotes": "",
+        "screenshots": [
+          {
+            "description": "main screen",
+            "url": "https://img.itch.zone/aW1hZ2UvMjY5MDQxNS8xODAwNjAyNC5wbmc=/347x500/4S%2B7zS.png"
+          },
+          {
+            "description": "gameplay",
+            "url": "https://img.itch.zone/aW1hZ2UvMjY5MDQxNS8xODAwNjAyNS5wbmc=/347x500/VI6dUS.png"
+          }
+        ],
+        "title": "PixelSnack Clicker!",
+        "version": "0.1",
+        "wiki": ""
+      },
+      "PixelSnack%20Clicker.cia": [
+        {
+          "file": "https://archive.org/download/idkrandom/PixelSnack%20Clicker.cia",
+          "output": "/PixelSnack%20Clicker.cia",
+          "type": "downloadFile"
+        },
+        {
+          "file": "/PixelSnack%20Clicker.cia",
+          "type": "installCia"
+        },
+        {
+          "file": "/PixelSnack%20Clicker.cia",
+          "type": "deleteFile"
+        }
+      ]
+    },
+    {
+      "info": {
+        "author": "MonsterFloppa",
+        "category": [ "game" ],
+        "console": [ "3DS" ],
+        "description": "You are a normal dude walking down the street when suddenly, you no-clip into the floor and end up inside an infinite complex of yellow walls and smelly carpet. \n\nNew 3DS Only",
+        "icon_index": 2,
+        "last_updated": "2024-03-14 at 15:52 (UTC)",
+        "license": "",
+        "releasenotes": "",
+        "screenshots": [
+          {
+            "description": "NextBot Mode",
+            "url": "https://img.itch.zone/aW1hZ2UvMjUyNzMwOS8xNTAyOTk1MC5wbmc=/347x500/MvEXma.png"
+          }
+        ],
+        "title": "The Backrooms Experience 3DS",
+        "version": "0.1",
+        "wiki": ""
+      },
+      "TheBackroomsExperienceDemo.cia": [
+        {
+          "file": "https://archive.org/download/idkrandom/TheBackroomsExperienceDemo.cia",
+          "output": "/TheBackroomsExperienceDemo.cia",
+          "type": "downloadFile"
+        },
+        {
+          "file": "/TheBackroomsExperienceDemo.cia",
+          "type": "installCia"
+        },
+        {
+          "file": "/TheBackroomsExperienceDemo.cia",
+          "type": "deleteFile"
+        }
+      ]
+    },
+    {
+      "info": {
+        "author": "TheGamer",
+        "category": [ "game" ],
+        "console": [ "3DS" ],
+        "description": "A serious WIP remake of FFPS for 3DS \n\nNew 3DS Only",
+        "icon_index": 3,
+        "last_updated": "",
+        "license": "",
+        "releasenotes": "",
+        "screenshots": [],
+        "title": "FNaF 6 3DS by TheGamer",
+        "version": "0.1",
+        "wiki": ""
+      },
+      "N3DSFNAF6Demo.cia": [
+        {
+          "file": "https://archive.org/download/idkrandom/N3DSFNAF6Demo.cia",
+          "output": "/N3DSFNAF6Demo.cia",
+          "type": "downloadFile"
+        },
+        {
+          "file": "/N3DSFNAF6Demo.cia",
+          "type": "installCia"
+        },
+        {
+          "file": "/N3DSFNAF6Demo.cia",
+          "type": "deleteFile"
+        }
+      ]
+    },
+    {
+      "info": {
+        "author": "TheGamer",
+        "category": [ "game" ],
+        "console": [ "3DS" ],
+        "description": "Night 1 Demo (N3DS tested, may work on O3DS)",
+        "icon_index": 4,
+        "last_updated": "",
+        "license": "",
+        "releasenotes": "",
+        "screenshots": [],
+        "title": "FNaF 1 3DS (but good) by TheGamer",
+        "version": "0.1",
+        "wiki": ""
+      },
+      "FNaF-3DS-Demo.cia": [
+        {
+          "file": "https://archive.org/download/idkrandom/FNaF-3DS-Demo.cia",
+          "output": "/FNaF-3DS-Demo.cia",
+          "type": "downloadFile"
+        },
+        {
+          "file": "/FNaF-3DS-Demo.cia",
+          "type": "installCia"
+        },
+        {
+          "file": "/FNaF-3DS-Demo.cia",
+          "type": "deleteFile"
+        }
+      ]
+    },
+    {
+      "info": {
+        "author": "BayMason",
+        "category": [ "game" ],
+        "console": [ "3DS" ],
+        "description": "Suika for 3DS",
+        "icon_index": 5,
+        "last_updated": "",
+        "license": "",
+        "releasenotes": "",
+        "screenshots": [],
+        "title": "3DSuika",
+        "version": "0.1",
+        "wiki": ""
+      },
+      "3dsuikia.standard.cia": [
+        {
+          "file": "https://archive.org/download/idkrandom/3dsuikia.standard.cia",
+          "output": "/3dsuikia.standard.cia",
+          "type": "downloadFile"
+        },
+        {
+          "file": "/3dsuikia.standard.cia",
+          "type": "installCia"
+        },
+        {
+          "file": "/3dsuikia.standard.cia",
+          "type": "deleteFile"
+        }
+      ]
+    },
+    {
+      "info": {
+        "author": "Mokiko",
+        "category": [ "game" ],
+        "console": [ "3DS" ],
+        "description": "Only for new 3ds ",
+        "icon_index": 6,
+        "last_updated": "",
+        "license": "",
+        "releasenotes": "",
+        "screenshots": [],
+        "title": "Garten of Banban 3ds tech demo",
+        "version": "0.1",
+        "wiki": ""
+      },
+      "garten of banban 3ds tech demo.standard.cia": [
+        {
+          "file": "https://archive.org/download/idkrandom/garten%20of%20banban%203ds%20tech%20demo.standard.cia",
+          "output": "/garten%20of%20banban%203ds%20tech%20demo.standard.cia",
+          "type": "downloadFile"
+        },
+        {
+          "file": "/garten%20of%20banban%203ds%20tech%20demo.standard.cia",
+          "type": "installCia"
+        },
+        {
+          "file": "/garten%20of%20banban%203ds%20tech%20demo.standard.cia",
+          "type": "deleteFile"
+        }
+      ]
+    },
+    {
+      "info": {
+        "author": "Unknow",
+        "category": [ "game" ],
+        "console": [ "3DS" ],
+        "description": "Grand Theft Auto V for Nintendo 3DS, and yes... works on both, new and old 3ds",
+        "icon_index": 7,
+        "last_updated": "",
+        "license": "",
+        "releasenotes": "",
+        "screenshots": [],
+        "title": "Grand Theft Auto V",
+        "version": "0.1",
+        "wiki": ""
+      },
+      "GTA-V-3DS.cia": [
+        {
+          "file": "https://archive.org/download/idkrandom/Grand%20Theft%20Auto%20V%20Nintendo%203DS%20Edition.cia",
+          "output": "/Grand%20Theft%20Auto%20V%20Nintendo%203DS%20Edition.cia",
+          "type": "downloadFile"
+        },
+        {
+          "file": "/Grand%20Theft%20Auto%20V%20Nintendo%203DS%20Edition.cia",
+          "type": "installCia"
+        },
+        {
+          "file": "/Grand%20Theft%20Auto%20V%20Nintendo%203DS%20Edition.cia",
+          "type": "deleteFile"
+        }
+      ]
+    },
+    {
+      "info": {
+        "author": "Dimolade",
+        "category": [ "game" ],
+        "console": [ "3DS" ],
+        "description": "fnaf 2 for 3ds",
+        "icon_index": 8,
+        "last_updated": "",
+        "license": "",
+        "releasenotes": "",
+        "screenshots": [],
+        "title": "FNAF 2",
+        "version": "0.1",
+        "wiki": ""
+      },
+      "FNaF2-1.standard.cia": [
+        {
+          "file": "https://archive.org/download/idkrandom/dimo/FNaF2-1.standard.cia",
+          "output": "/FNaF2-1.standard.cia",
+          "type": "downloadFile"
+        },
+        {
+          "file": "/FNaF2-1.standard.cia",
+          "type": "installCia"
+        },
+        {
+          "file": "/FNaF2-1.standard.cia",
+          "type": "deleteFile"
+        }
+      ]
+    },
+    {
+      "info": {
+        "author": "Dimolade",
+        "category": [ "game" ],
+        "console": [ "3DS" ],
+        "description": "FNAF 4 for 3ds",
+        "icon_index": 9,
+        "last_updated": "",
+        "license": "",
+        "releasenotes": "",
+        "screenshots": [],
+        "title": "FNAF 4",
+        "version": "0.1",
+        "wiki": ""
+      },
+      "Download New 3DS Only Build": [
+        {
+          "file": "https://archive.org/download/idkrandom/dimo/FNaF4.cia",
+          "output": "/FNaF4.cia",
+          "type": "downloadFile"
+        },
+        {
+          "file": "/FNaF4.cia",
+          "type": "installCia"
+        },
+        {
+          "file": "/FNaF4.cia",
+          "type": "deleteFile"
+        }
+      ],
+      "Download Old 3DS Build": [
+        {
+          "file": "https://archive.org/download/idkrandom/dimo/FNaF4Old3DS.cia",
+          "output": "/FNaF4Old3DS.cia",
+          "type": "downloadFile"
+        },
+        {
+          "file": "/FNaF4Old3DS.cia",
+          "type": "installCia"
+        },
+        {
+          "file": "/FNaF4Old3DS.cia",
+          "type": "deleteFile"
+        }
+      ]
+    },
+    {
+      "info": {
+        "author": "Dimolade",
+        "category": [ "game" ],
+        "console": [ "3DS" ],
+        "description": "FNAF Sister Location \n\nOnly for New 3ds",
+        "icon_index": 10,
+        "last_updated": "",
+        "license": "",
+        "releasenotes": "",
+        "screenshots": [],
+        "title": "FNAF Sister Location",
+        "version": "0.1",
+        "wiki": ""
+      },
+      "Download FNaFSl.standard.cia": [
+        {
+          "file": "https://archive.org/download/idkrandom/dimo/FNaFSl.standard.cia",
+          "output": "/FNaFSl.standard.cia",
+          "type": "downloadFile"
+        },
+        {
+          "file": "/FNaFSl.standard.cia",
+          "type": "installCia"
+        },
+        {
+          "file": "/FNaFSl.standard.cia",
+          "type": "deleteFile"
+        }
+      ]
+    },
+    {
+      "info": {
+        "author": "Dimolade",
+        "category": [ "game" ],
+        "console": [ "3DS" ],
+        "description": "Garrys Mod for 3DS \n\nNew 3DS Only",
+        "icon_index": 11,
+        "last_updated": "",
+        "license": "",
+        "releasenotes": "",
+        "screenshots": [],
+        "title": "Garrys Mod for New 3DS",
+        "version": "0.1",
+        "wiki": ""
+      },
+      "Download GM3DS.cia": [
+        {
+          "file": "https://archive.org/download/idkrandom/dimo/GM3DS.cia",
+          "output": "/GM3DS.cia",
+          "type": "downloadFile"
+        },
+        {
+          "file": "/GM3DS.cia",
+          "type": "installCia"
+        },
+        {
+          "file": "/GM3DS.cia",
+          "type": "deleteFile"
+        }
+      ]
+    },
+    {
+      "info": {
+        "author": "Dimolade",
+        "category": [ "game" ],
+        "console": [ "3DS" ],
+        "description": "GeometryDash for 3DS",
+        "icon_index": 12,
+        "last_updated": "",
+        "license": "",
+        "releasenotes": "",
+        "screenshots": [],
+        "title": "GeometryDash3DS",
+        "version": "0.1",
+        "wiki": ""
+      },
+      "Download GeometryDash3DS.cia": [
+        {
+          "file": "https://archive.org/download/idkrandom/dimo/GeometryDash3DS.cia",
+          "output": "/GeometryDash3DS.cia",
+          "type": "downloadFile"
+        },
+        {
+          "file": "/GeometryDash3DS.cia",
+          "type": "installCia"
+        },
+        {
+          "file": "/GeometryDash3DS.cia",
+          "type": "deleteFile"
+        }
+      ]
+    },
+    {
+      "info": {
+        "author": "Dimolade",
+        "category": [ "game" ],
+        "console": [ "3DS" ],
+        "description": "Granny for 3DS",
+        "icon_index": 13,
+        "last_updated": "",
+        "license": "",
+        "releasenotes": "",
+        "screenshots": [],
+        "title": "Granny",
+        "version": "0.1",
+        "wiki": ""
+      },
+      "Download Granny.cia": [
+        {
+          "file": "https://archive.org/download/idkrandom/dimo/Granny.cia",
+          "output": "/Granny.cia",
+          "type": "downloadFile"
+        },
+        {
+          "file": "/Granny.cia",
+          "type": "installCia"
+        },
+        {
+          "file": "/Granny.cia",
+          "type": "deleteFile"
+        }
+      ]
+    },
+    {
+      "info": {
+        "author": "Dimolade",
+        "category": [ "game" ],
+        "console": [ "3DS" ],
+        "description": "Incredibox for 3DS",
+        "icon_index": 14,
+        "last_updated": "",
+        "license": "",
+        "releasenotes": "",
+        "screenshots": [],
+        "title": "Incredibox",
+        "version": "0.1",
+        "wiki": ""
+      },
+      "Download Incredibox.standard.cia": [
+        {
+          "file": "https://archive.org/download/idkrandom/dimo/Incredibox.standard.cia",
+          "output": "/Incredibox.standard.cia",
+          "type": "downloadFile"
+        },
+        {
+          "file": "/Incredibox.standard.cia",
+          "type": "installCia"
+        },
+        {
+          "file": "/Incredibox.standard.cia",
+          "type": "deleteFile"
+        }
+      ]
+    },
+    {
+      "info": {
+        "author": "Dimolade",
+        "category": [ "game" ],
+        "console": [ "3DS" ],
+        "description": "UltimateCustomNightMenu for 3DS \n\nNew 3DS Only",
+        "icon_index": 15,
+        "last_updated": "",
+        "license": "",
+        "releasenotes": "",
+        "screenshots": [],
+        "title": "FNAF UltimateCustomNightMenu",
+        "version": "0.1",
+        "wiki": ""
+      },
+      "Download UltimateCustomNightMenu.cia": [
+        {
+          "file": "https://archive.org/download/idkrandom/dimo/UltimateCustomNightMenu.cia",
+          "output": "/UltimateCustomNightMenu.cia",
+          "type": "downloadFile"
+        },
+        {
+          "file": "/UltimateCustomNightMenu.cia",
+          "type": "installCia"
+        },
+        {
+          "file": "/UltimateCustomNightMenu.cia",
+          "type": "deleteFile"
+        }
+      ]
+    },
+    {
+      "info": {
+        "author": "Damsey diou",
+        "category": [ "game" ],
+        "console": [ "3DS" ],
+        "description": "GarrysMod for Old3DS",
+        "icon_index": 16,
+        "last_updated": "",
+        "license": "",
+        "releasenotes": "",
+        "screenshots": [],
+        "title": "GarrysMod for Old3DS",
+        "version": "0.1",
+        "wiki": ""
+      },
+      "Download GMOD O3DS.cia": [
+        {
+          "file": "https://archive.org/download/idkrandom/GMod%20O3DS.cia",
+          "output": "/GMod%20O3DS.cia",
+          "type": "downloadFile"
+        },
+        {
+          "file": "/GMod%20O3DS.cia",
+          "type": "installCia"
+        },
+        {
+          "file": "/GMod%20O3DS.cia",
+          "type": "deleteFile"
+        }
+      ]
+    }
+  ]
+}
