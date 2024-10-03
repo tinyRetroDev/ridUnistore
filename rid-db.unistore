@@ -4,7 +4,7 @@
     "description": "- Another online database of homebrew -",
     "file": "rid-db.unistore",
     "infoURL": "",
-    "revision": 1,
+    "revision": 2,
     "sheet": "rid-db.t3x",
     "sheetURL": "https://github.com/tinyRetroDev/ridUnistore/raw/b5198bffc838c99de2ee40ab620a9332f8d69e54/rid-db.t3x",
     "title": "RID DataBase",
@@ -135,26 +135,26 @@
         "console": [ "3DS" ],
         "description": "A serious WIP remake of FFPS for 3DS \n\nNew 3DS Only",
         "icon_index": 3,
-        "last_updated": "",
+        "last_updated": "2024-10-02 at 20:49 (GMT-4)",
         "license": "",
         "releasenotes": "",
         "screenshots": [],
         "title": "FNaF 6 3DS by TheGamer",
-        "version": "0.1",
+        "version": "0.1a",
         "wiki": ""
       },
-      "N3DSFNAF6Demo.cia": [
+      "FFPS.cia": [
         {
-          "file": "https://archive.org/download/idkrandom/N3DSFNAF6Demo.cia",
-          "output": "/N3DSFNAF6Demo.cia",
+          "file": "https://github.com/TheProgrammer1337/FFPS-3DS/releases/download/v0.1a/FFPS.cia",
+          "output": "/FFPS.cia",
           "type": "downloadFile"
         },
         {
-          "file": "/N3DSFNAF6Demo.cia",
+          "file": "/FFPS.cia",
           "type": "installCia"
         },
         {
-          "file": "/N3DSFNAF6Demo.cia",
+          "file": "/FFPS.cia",
           "type": "deleteFile"
         }
       ]
