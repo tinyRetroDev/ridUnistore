@@ -4,9 +4,9 @@
     "description": "- Another online database of homebrew -",
     "file": "rid-db.unistore",
     "infoURL": "",
-    "revision": 3,
+    "revision": 4,
     "sheet": "rid-db.t3x",
-    "sheetURL": "https://github.com/tinyRetroDev/ridUnistore/raw/refs/heads/main/rid-db.t3x",
+    "sheetURL": "https://github.com/tinyRetroDev/ridUnistore/raw/b5198bffc838c99de2ee40ab620a9332f8d69e54/rid-db.t3x",
     "title": "RID DataBase",
     "url": "https://raw.githubusercontent.com/tinyRetroDev/ridUnistore/refs/heads/main/rid-db.unistore",
     "version": 3
@@ -582,7 +582,7 @@
         "author": "RetroArch",
         "category": [ "Emulator" ],
         "console": [ "3DS" ],
-        "description": "Retroarch already configured to run PSX Funkin on OLD 3DS \n(Friday Night Funkin for PS1/PSX) \nmay need more config for better experience",
+        "description": "Retroarch already configured to run PSX Funkin on OLD 3DS \n(Friday Night Funking for PS1/PSX) \nmay need more config for better experience \n\nMake sure that you dont have retroarch before install this \nOverryde old retroarch installation would break retroarch and make it useless",
         "icon_index": 17,
         "last_updated": "",
         "license": "",
@@ -655,7 +655,7 @@
           "type": "extractFile",
           "file": "%ARCHIVE_DEFAULT%/fnf_v12.zip",
           "input": "fnfv12.cia",
-          "output": "%ARCHIVE_DEFAULT%/fnfv12.cia"
+          "output": "%ARCHIVE_DEFAULT%/fnf_v12.zip"
         },
         {
           "file": "%ARCHIVE_DEFAULT%/fnfv12.cia",
@@ -663,6 +663,10 @@
         },
         {
           "file": "%ARCHIVE_DEFAULT%/fnfv12.cia",
+          "type": "deleteFile"
+        },
+        {
+          "file": "%ARCHIVE_DEFAULT%/fnf_v12.zip",
           "type": "deleteFile"
         }
       ]
