@@ -582,7 +582,7 @@
         "author": "RetroArch",
         "category": [ "Emulator" ],
         "console": [ "3DS" ],
-        "description": "Retroarch already configured to run PSX Funkin on OLD 3DS \n(Friday Night Funking for PS1/PSX) \nmay need more config for better experience",
+        "description": "Retroarch already configured to run PSX Funkin on OLD 3DS \n(Friday Night Funkin for PS1/PSX) \nmay need more config for better experience",
         "icon_index": 17,
         "last_updated": "",
         "license": "",
@@ -634,7 +634,7 @@
         "license": "",
         "releasenotes": "",
         "screenshots": [],
-        "title": "Retroarch PSX on Old3DS",
+        "title": "PSXFunkin",
         "version": "",
         "wiki": ""
       },
