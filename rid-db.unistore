@@ -4,7 +4,7 @@
     "description": "- Another online database of homebrew -",
     "file": "rid-db.unistore",
     "infoURL": "",
-    "revision": 5,
+    "revision": 6,
     "sheet": "rid-db.t3x",
     "sheetURL": "https://github.com/tinyRetroDev/ridUnistore/raw/b5198bffc838c99de2ee40ab620a9332f8d69e54/rid-db.t3x",
     "title": "RID DataBase",
@@ -701,18 +701,18 @@
         "version": "0.1",
         "wiki": ""
       },
-      "Download GM3DS.cia": [
+      "Download NGM3DS.cia": [
         {
-          "file": "https://archive.org/download/idkrandom/dimo/GM3DS.cia",
-          "output": "/GM3DS.cia",
+          "file": "https://drive.usercontent.google.com/download?id=1ZuDR8pDA5dGwVfQUWmz87IO1X9nPEBLh&export=download",
+          "output": "/NGM3DS.cia",
           "type": "downloadFile"
         },
         {
-          "file": "/GM3DS.cia",
+          "file": "/NGM3DS.cia",
           "type": "installCia"
         },
         {
-          "file": "/GM3DS.cia",
+          "file": "/NGM3DS.cia",
           "type": "deleteFile"
         }
       ]
