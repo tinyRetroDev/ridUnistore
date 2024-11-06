@@ -4,7 +4,7 @@
     "description": "- Another online database of homebrew -",
     "file": "rid-db.unistore",
     "infoURL": "",
-    "revision": 10,
+    "revision": 11,
     "sheet": "rid-db.t3x",
     "sheetURL": "https://raw.githubusercontent.com/tinyRetroDev/ridUnistore/refs/heads/main/rid-db.t3x",
     "title": "RID DataBase",
@@ -713,6 +713,42 @@
         },
         {
           "file": "/NGM3DS.cia",
+          "type": "deleteFile"
+        }
+      ]
+    },
+    {
+      "info": {
+        "author": "Extintor Incendiandose",
+        "category": [ "game" ],
+        "console": [ "3DS" ],
+        "description": "Resident Evil 4 \n-3DS Edition- \n\nNote: Works on New & Old 3DS",
+        "icon_index": 20,
+        "last_updated": "2024-11-06 at 13:05 (GMT-4)",
+        "license": "",
+        "releasenotes": "",
+        "screenshots": [
+          {
+            "description": "Home Menu",
+            "url": "https://i.imgur.com/284SLux.png"
+          }
+        ],
+        "title": "Resident Evil 4",
+        "version": "0.1",
+        "wiki": ""
+      },
+      "Download RE43DS.cia": [
+        {
+          "file": "https://drive.usercontent.google.com/download?id=1cgdqFcn2ZTLJeNi-nYDgwSNQ23JcG1sU&export=download",
+          "output": "/RE43DS.cia",
+          "type": "downloadFile"
+        },
+        {
+          "file": "/RE43DS.cia",
+          "type": "installCia"
+        },
+        {
+          "file": "/RE43DS.cia",
           "type": "deleteFile"
         }
       ]
