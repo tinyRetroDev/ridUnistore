@@ -4,7 +4,7 @@
     "description": "- Another online database of homebrew -",
     "file": "rid-db.unistore",
     "infoURL": "",
-    "revision": 11,
+    "revision": 12,
     "sheet": "rid-db.t3x",
     "sheetURL": "https://raw.githubusercontent.com/tinyRetroDev/ridUnistore/refs/heads/main/rid-db.t3x",
     "title": "RID DataBase",
@@ -691,9 +691,9 @@
         "author": "Dimolade",
         "category": [ "game" ],
         "console": [ "3DS" ],
-        "description": "New Garrys Mod for 3DS by Dimolade \n\nWorks on New & Old 3DS",
+        "description": "New Garrys Mod for 3DS by Dimolade \n\nNew 3DS Only",
         "icon_index": 19,
-        "last_updated": "2024-11-04 at 21:55 (GMT-4)",
+        "last_updated": "2025-02-06 at 21:55 (GMT-4)",
         "license": "",
         "releasenotes": "",
         "screenshots": [],
@@ -718,40 +718,81 @@
       ]
     },
     {
-      "info": {
-        "author": "Extintor Incendiandose",
-        "category": [ "game" ],
-        "console": [ "3DS" ],
-        "description": "Resident Evil 4 \n-3DS Edition- \n\nNote: Works on New & Old 3DS",
-        "icon_index": 20,
-        "last_updated": "2024-11-06 at 13:05 (GMT-4)",
-        "license": "",
-        "releasenotes": "",
-        "screenshots": [
-          {
-            "description": "Home Menu",
-            "url": "https://i.imgur.com/284SLux.png"
-          }
-        ],
-        "title": "Resident Evil 4",
-        "version": "0.1",
-        "wiki": ""
-      },
-      "Download RE43DS.cia": [
-        {
-          "file": "https://drive.usercontent.google.com/download?id=1cgdqFcn2ZTLJeNi-nYDgwSNQ23JcG1sU&export=download",
-          "output": "/RE43DS.cia",
-          "type": "downloadFile"
+        "info": {
+            "author": "Extintor Incendiandose",
+            "category": [ "game" ],
+            "console": [ "3DS" ],
+            "description": "Resident Evil 4 \n-3DS Edition- \n\nNote: Works on New & Old 3DS",
+            "icon_index": 20,
+            "last_updated": "2024-11-06 at 13:05 (GMT-4)",
+            "license": "",
+            "releasenotes": "",
+            "screenshots": [
+                {
+                    "description": "Home Menu",
+                    "url": "https://i.imgur.com/284SLux.png"
+                }
+            ],
+            "title": "Resident Evil 4",
+            "version": "0.1",
+            "wiki": ""
         },
-        {
-          "file": "/RE43DS.cia",
-          "type": "installCia"
+        "Download RE43DS.cia": [
+            {
+                "file": "https://drive.usercontent.google.com/download?id=1cgdqFcn2ZTLJeNi-nYDgwSNQ23JcG1sU&export=download",
+                "output": "/RE43DS.cia",
+                "type": "downloadFile"
+            },
+            {
+                "file": "/RE43DS.cia",
+                "type": "installCia"
+            },
+            {
+                "file": "/RE43DS.cia",
+                "type": "deleteFile"
+            }
+        ]
+    },
+    {
+        "info": {
+            "author": "Extn-Games",
+            "category": [ "game" ],
+            "console": [ "3DS" ],
+            "description": "-ai roleplay chat for 3ds- \n \n\nNote: Works on New & Old 3DS",
+            "icon_index": 21,
+            "last_updated": "2025-01-18 at 13:05 (GMT-4)",
+            "license": "",
+            "releasenotes": "",
+            "screenshots": [],
+            "title": "RAI Loader",
+            "version": "0.1",
+            "wiki": "https://jalm24.itch.io/rai-loader"
         },
-        {
-          "file": "/RE43DS.cia",
-          "type": "deleteFile"
-        }
-      ]
+        "Download RAI Loader [English AI Pack]": [
+            {
+                "file": "https://ia800102.us.archive.org/29/items/idkrandom/RaiLoaderEnglishPack.zip",
+                "output": "/RaiLoaderEnglishPack.zip",
+                "type": "downloadFile"
+            },
+            {
+                "type": "extractFile",
+                "file": "/RaiLoaderEnglishPack.zip",
+                "input": "",
+                "output": "/"
+            },
+            {
+                "file": "/RAI-Loader.cia",
+                "type": "installCia"
+            },
+            {
+                "file": "/RaiLoaderEnglishPack.zip",
+                "type": "deleteFile"
+            }
+            {
+                "file": "/RAI-Loader.cia",
+                "type": "deleteFile"
+            }
+        ]
     }
   ]
 }
