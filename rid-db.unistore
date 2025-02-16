@@ -4,7 +4,7 @@
     "description": "- Another online database of homebrew -",
     "file": "rid-db.unistore",
     "infoURL": "",
-    "revision": 13,
+    "revision": 14,
     "sheet": "rid-db.t3x",
     "sheetURL": "https://raw.githubusercontent.com/tinyRetroDev/ridUnistore/refs/heads/main/rid-db.t3x",
     "title": "RID DataBase",
@@ -768,22 +768,7 @@
         "version": "0.1",
         "wiki": "https://jalm24.itch.io/rai-loader"
       },
-      "Download RAI-Loader.cia": [
-        {
-          "file": "https://ia800102.us.archive.org/29/items/idkrandom/RAI-Loader.cia",
-          "output": "/RAI-Loader.cia",
-          "type": "downloadFile"
-        },
-        {
-          "file": "/RAI-Loader.cia",
-          "type": "installCia"
-        },
-        {
-          "file": "/RAI-Loader.cia",
-          "type": "deleteFile"
-        }
-      ],
-      "Download English Character Pack": [
+      "Download English Basic Character Pack": [
         {
           "file": "https://ia800102.us.archive.org/29/items/idkrandom/RaiLoaderEnglishPack.zip",
           "output": "sdmc:/RaiLoaderEnglishPack.zip",
@@ -797,6 +782,31 @@
         },
         {
           "file": "sdmc:/RaiLoaderEnglishPack.zip",
+          "type": "deleteFile"
+        },
+        {
+          "file": "sdmc:/RAI-Loader.cia",
+          "type": "installCia"
+        },
+        {
+          "file": "sdmc:/RAI-Loader.cia",
+          "type": "deleteFile"
+        }
+      ],
+      "Download Spanish Basic Character Pack": [
+        {
+          "file": "https://ia800102.us.archive.org/29/items/idkrandom/RaiLoaderSpanishPack.zip",
+          "output": "sdmc:/RaiLoaderSpanishPack.zip",
+          "type": "downloadFile"
+        },
+        {
+          "file": "sdmc:/RaiLoaderSpanishPack.zip",
+          "input": "",
+          "output": "sdmc:/",
+          "type": "extractFile"
+        },
+        {
+          "file": "sdmc:/RaiLoaderSpanishPack.zip",
           "type": "deleteFile"
         },
         {
