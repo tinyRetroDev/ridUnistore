@@ -4,7 +4,7 @@
     "description": "- Another online database of homebrew -",
     "file": "rid-db.unistore",
     "infoURL": "",
-    "revision": 12,
+    "revision": 13,
     "sheet": "rid-db.t3x",
     "sheetURL": "https://raw.githubusercontent.com/tinyRetroDev/ridUnistore/refs/heads/main/rid-db.t3x",
     "title": "RID DataBase",
