@@ -753,7 +753,7 @@
         }
       ]
     },
-        {
+    {
       "info": {
         "author": "Extintor Incendiandose",
         "category": [ "app" ],
@@ -815,6 +815,42 @@
         },
         {
           "file": "sdmc:/RAI-Loader.cia",
+          "type": "deleteFile"
+        }
+      ]
+    },
+    {
+      "info": {
+        "author": "Extintor Incendiandose",
+        "category": [ "game" ],
+        "console": [ "3DS" ],
+        "description": "Shoot the Goku clones that appear on the screen with a rifle\n\nNote: Works on New 3DS, MAYBE works on Old3DS with circle pad pro",
+        "icon_index": 22,
+        "last_updated": "2024-11-24 at 20:52 (UTC)",
+        "license": "",
+        "releasenotes": "",
+        "screenshots": [
+          {
+            "description": "Gameplay",
+            "url": "https://img.itch.zone/aW1hZ2UvMzEzMjM0NC8xODcxNTE3Ni5wbmc=/794x1000/baZoce.png"
+          }
+        ],
+        "title": "Android Vs Goku",
+        "version": "0.1",
+        "wiki": ""
+      },
+      "Download AndroidVsGoku.cia": [
+        {
+          "file": "https://ia800102.us.archive.org/29/items/idkrandom/AndroidVsGoku.cia",
+          "output": "/AndroidVsGoku.cia",
+          "type": "downloadFile"
+        },
+        {
+          "file": "/AndroidVsGoku.cia",
+          "type": "installCia"
+        },
+        {
+          "file": "/AndroidVsGoku.cia",
           "type": "deleteFile"
         }
       ]
