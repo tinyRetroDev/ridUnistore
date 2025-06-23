@@ -4,7 +4,7 @@
     "description": "- Another online database of homebrew -",
     "file": "rid-db.unistore",
     "infoURL": "",
-    "revision": 15,
+    "revision": 16,
     "sheet": "rid-db.t3x",
     "sheetURL": "https://raw.githubusercontent.com/tinyRetroDev/ridUnistore/refs/heads/main/rid-db.t3x",
     "title": "RID DataBase",
@@ -770,18 +770,20 @@
       },
       "Download English Basic Character Pack": [
         {
-          "file": "https://ia800102.us.archive.org/29/items/idkrandom/RaiLoaderEnglishPack.zip",
-          "output": "sdmc:/RaiLoaderEnglishPack.zip",
-          "type": "downloadFile"
+          "type": "downloadRelease",
+          "repo": "Jalm24/RaiLoader",
+          "file": "EnglishPack.zip",
+          "output": "sdmc:/EnglishPack.zip",
+          "includePrereleases": false
         },
         {
-          "file": "sdmc:/RaiLoaderEnglishPack.zip",
+          "file": "sdmc:/EnglishPack.zip",
           "input": "",
           "output": "sdmc:/",
           "type": "extractFile"
         },
         {
-          "file": "sdmc:/RaiLoaderEnglishPack.zip",
+          "file": "sdmc:/EnglishPack.zip",
           "type": "deleteFile"
         },
         {
@@ -795,18 +797,20 @@
       ],
       "Download Spanish Basic Character Pack": [
         {
-          "file": "https://ia800102.us.archive.org/29/items/idkrandom/RaiLoaderSpanishPack.zip",
-          "output": "sdmc:/RaiLoaderSpanishPack.zip",
-          "type": "downloadFile"
+          "type": "downloadRelease",
+          "repo": "Jalm24/RaiLoader",
+          "file": "SpanishPack.zip",
+          "output": "sdmc:/SpanishPack.zip",
+          "includePrereleases": false
         },
         {
-          "file": "sdmc:/RaiLoaderSpanishPack.zip",
+          "file": "sdmc:/SpanishPack.zip",
           "input": "",
           "output": "sdmc:/",
           "type": "extractFile"
         },
         {
-          "file": "sdmc:/RaiLoaderSpanishPack.zip",
+          "file": "sdmc:/SpanishPack.zip",
           "type": "deleteFile"
         },
         {
@@ -824,9 +828,9 @@
         "author": "Extintor Incendiandose",
         "category": [ "game" ],
         "console": [ "3DS" ],
-        "description": "Shoot the Goku clones that appear on the screen with a rifle\n\nNote: Works on New 3DS, MAYBE works on Old3DS with circle pad pro",
+        "description": "Shoot the Goku clones that appear on the screen with a rifle\n\nNote: Works on New 3DS, Old3DS only with circle pad pro",
         "icon_index": 22,
-        "last_updated": "2024-11-24 at 20:52 (UTC)",
+        "last_updated": "2025-06-23 at 01:02 (GTM-4)",
         "license": "",
         "releasenotes": "",
         "screenshots": [
@@ -836,14 +840,16 @@
           }
         ],
         "title": "Android Vs Goku",
-        "version": "0.1",
+        "version": "0.0.2",
         "wiki": ""
       },
       "Download AndroidVsGoku.cia": [
         {
-          "file": "https://ia800102.us.archive.org/29/items/idkrandom/AndroidVsGoku.cia",
-          "output": "/AndroidVsGoku.cia",
-          "type": "downloadFile"
+          "type": "downloadRelease",
+          "repo": "Jalm24/AndroidVsGoku3DS",
+          "file": "AndroidVsGoku.cia",
+          "output": "sdmc:/AndroidVsGoku.cia",
+          "includePrereleases": false
         },
         {
           "file": "/AndroidVsGoku.cia",
